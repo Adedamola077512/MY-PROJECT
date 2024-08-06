@@ -633,7 +633,7 @@
     .john{
         height: 35%;
         margin-top: 50px;
-        width: 440px;
+        width: 490px;
     }
     .img4{
         margin-left: 2px;
@@ -642,7 +642,7 @@
         display: grid;
         margin-top: 30px;
         gap: 50px;
-        margin-left: -10px;
+        /* margin-left: -10px; */
     }
     #Testimonial{
         font-size: 40px;
